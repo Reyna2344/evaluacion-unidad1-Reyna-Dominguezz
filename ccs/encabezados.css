@@ -1,0 +1,17 @@
+/*Documento css*/
+
+body { background-color: rgb(35, 36, 36);
+    font-family: "Oswald", sans-serif;
+color: white;}
+
+h1, h3 { color: tomato; 
+    font-size: 2em; 
+    font-weight: bold; 
+    text-transform: uppercase; }
+
+h2, h4 { color: orange;}
+
+div p small { color: red;
+font-weight: bold;}
+
+
